@@ -20,6 +20,7 @@ Connect with me:
 
 
 ![image](https://user-images.githubusercontent.com/41756440/205251686-86241333-060c-4e1c-a662-ba8bd4318481.png)
+python react
 
 
 https://www.linkedin.com/in/bornface-otieno-27146a166/
