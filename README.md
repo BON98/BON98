@@ -16,6 +16,8 @@
 
 
 Connect with me:
+![image](https://user-images.githubusercontent.com/41756440/205251371-5d71a19b-bdf0-41a5-97a3-f5b048ce10ba.png)
+
 
 https://www.linkedin.com/in/bornface-otieno-27146a166/
 <!---
