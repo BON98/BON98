@@ -16,13 +16,6 @@
 
 
 Connect with me:
-![image](https://user-images.githubusercontent.com/41756440/205251371-5d71a19b-bdf0-41a5-97a3-f5b048ce10ba.png)
-
-
-![image](https://user-images.githubusercontent.com/41756440/205251686-86241333-060c-4e1c-a662-ba8bd4318481.png)
-![image](https://user-images.githubusercontent.com/41756440/205252275-fcc0de42-e8c0-4430-8f1b-3311b4c5bcd3.png)
-
-
 https://www.linkedin.com/in/bornface-otieno-27146a166/
 <!---
 BON98/BON98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
