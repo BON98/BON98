@@ -6,7 +6,7 @@
 
 💬 Ask me about AWS CI/CD
 
-📫 How to reach me [https://twitter.com/bon_alpha
+📫 How to reach me [https://twitter.com/bon_alpha]
 
 📄 Know about my experiences https://drive.google.com/file/d/1bTiAIm6XAG0arO3oOMn8NPzBd8Alj8f9/view?usp=sharing
 
