@@ -25,8 +25,8 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </p>
 <br>
 <br>
-<p align="left"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=BON98&show_icons=true&theme=radical" /> <br>
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BON98&layout=compact" /> </p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BON98&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BON98&layout=compact" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BON98&theme=gruvbox" alt="BON98" /></p>
 
