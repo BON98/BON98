@@ -19,7 +19,8 @@
 <a href="https://twitter.com/bon_alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bon_alpha" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bornface-otieno-27146a166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bornfaceotieno" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 <p> <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BON98&show_icons=true&theme=radical" /> </p>
 <p> <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BON98&layout=compact" /> </p>
 
