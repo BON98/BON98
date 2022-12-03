@@ -27,12 +27,6 @@
 <br>
 <p align="left"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=BON98&show_icons=true&theme=radical" /> <br>
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BON98&layout=compact" /> </p>
-<br>
-
-
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BON98&theme=gruvbox" alt="BON98" /></p>
 
